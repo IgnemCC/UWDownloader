@@ -14,7 +14,13 @@ To download multiple files, simply paste the links to each lecture into the link
 (One Link per Line)
 The output is then saved as "Vorlesung" + line number of the link, e.G. "Vorlesung1".
 
-## Trouble Shooting:
+## Installation
+
+Download from https://github.com/IgnemCC/UWDownloader/releases/download/v1.0/UWDownloader.zip
+Run the dotnet-runtime installer if dotnet is not already present on your computer
+Run the application
+
+## Trouble Shooting
 
 If the app doesn't load, make sure you have .net Core Runtime installed
 (downloadable from Microsoft: https://dotnet.microsoft.com/download/dotnet-core)
