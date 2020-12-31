@@ -4,7 +4,7 @@ A simple Download Tool for Lectures/Videos of the University of Vienna (hosted b
 ## Manual for UWDownloader (updated 16.10.2020)
 Github: https://github.com/IgnemCC/UWDownloader
 
-A small tool to effeciently and automatically download Lectures from BigBlueButton, hosted by univie.ac.at,
+A small tool to efficiently and automatically download Lectures from BigBlueButton, hosted by univie.ac.at,
 using ffmpeg by https://ffmpeg.org
 
 To download a single link, simply paste the link into the program and enter the desired file name.
